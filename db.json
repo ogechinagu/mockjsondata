@@ -22,7 +22,7 @@
       "email": "jrubenfeld1@ebay.co.uk",
       "amount": 5689119.0,
       "date": "14/02/2022",
-      "status": "Pending",
+      "status": "Success",
       "payment_channel": "APP",
       "last_purchase": "28/09/2022"
     },
@@ -74,7 +74,7 @@
       "email": "aadame5@usnews.com",
       "amount": 440988.22,
       "date": "30/06/2022",
-      "status": "Pending",
+      "status": "Success",
       "payment_channel": "USSD",
       "last_purchase": "08/12/2021"
     },
@@ -90,6 +90,45 @@
       "status": "Failed",
       "payment_channel": "USSD",
       "last_purchase": "09/02/2022"
+    },
+    {
+      "id": 8,
+      "trans_type": "Data Purchase",
+      "phone_number": "3325207831",
+      "name": "Zenaida asiatica",
+      "network": "Airtel",
+      "email": "nmurley7@youku.com",
+      "amount": 2150590.64,
+      "date": "30/01/2022",
+      "status": "Success",
+      "payment_channel": "APP",
+      "last_purchase": "03/08/2022"
+    },
+    {
+      "id": 9,
+      "trans_type": "Data Purchase",
+      "phone_number": "5225932935",
+      "name": "Odocoileus hemionus",
+      "network": "MTN",
+      "email": "edmytryk8@github.com",
+      "amount": 8641508.0,
+      "date": "18/08/2022",
+      "status": "Failed",
+      "payment_channel": "USSD",
+      "last_purchase": "02/06/2022"
+    },
+    {
+      "id": 10,
+      "trans_type": "Data Purchase",
+      "phone_number": "8444741774",
+      "name": "Diceros bicornis",
+      "network": "MTN",
+      "email": "gruppelin9@cafepress.com",
+      "amount": 3590783.0,
+      "date": "09/03/2022",
+      "status": "Pending",
+      "payment_channel": "APP",
+      "last_purchase": "10/10/2022"
     }
   ]
 }
