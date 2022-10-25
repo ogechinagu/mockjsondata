@@ -126,7 +126,7 @@
       "email": "gruppelin9@cafepress.com",
       "amount": 3590783.0,
       "date": "09/03/2022",
-      "status": "Pending",
+      "status": "Success",
       "payment_channel": "APP",
       "last_purchase": "10/10/2022"
     },
@@ -139,7 +139,7 @@
       "email": "lmacalpina@phpbb.com",
       "amount": 2430330.83,
       "date": "29/04/2022",
-      "status": "Pending",
+      "status": "Success",
       "payment_channel": "APP",
       "last_purchase": "12/10/2022"
     },
@@ -191,7 +191,7 @@
       "email": "vmegroffe@pbs.org",
       "amount": 8269572.0,
       "date": "12/05/2022",
-      "status": "Pending",
+      "status": "Success",
       "payment_channel": "APP",
       "last_purchase": "22/07/2022"
     },
@@ -230,7 +230,7 @@
       "email": "gcardosoh@phoca.cz",
       "amount": 8790971.0,
       "date": "28/02/2022",
-      "status": "Pending",
+      "status": "Success",
       "payment_channel": "APP",
       "last_purchase": "10/06/2022"
     },
